@@ -1,0 +1,17 @@
+{
+    "name": "notcod/sophia-addon-db",
+    "description": "DB addon",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Nemanja M",
+        "email": "mneca99+git@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Sophia\\Addon\\": "src/"
+        }
+    },
+    "require": {}
+}
